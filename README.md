@@ -1,5 +1,5 @@
 
-![Logotipo, nombre de la empresa](logo.png)
+![Logotipo, nombre de la empresa](/imagenes/logo.png)
 
 **UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
 
@@ -70,68 +70,34 @@ Desarrollar un nuevo lenguaje de programación basado en C++ que simplifique la 
 
 Declaración de variable:
 
-![](ex1.png)
+![](/imagenes/ex1.png)
 
-
-
-
-
-![](tree1.png)
-
-
-
-
-
+![](/imagenes/tree1.png)
 
 Declaración de estructura:
-![](ex2.png)
+
+![](/imagenes/ex2.png)
 
 
-
-![](tree2.png)
-
-
-
-
-
-
-
-
-
-
-
+![](/imagenes/tree2.png)
 
 Función para la suma de dos números:
-![](ex3.png)
 
-![](tree3.png)
+![](/imagenes/ex3.png)
 
-
-
-
-
-
-
-
-
-
-
+![](/imagenes/tree3.png)
 
 Entrada y salida de datos
 
-![](ex4.png)
+![](/imagenes/ex4.png)
 
-
-![](tree4.png)
-
+![](/imagenes/tree4.png)
 
 Función sumatoria
 
-![](ex5.png)
+![](/imagenes/ex5.png)
 
-
-
-![](tree5.png)
+![](/imagenes/tree5.png)
 
 
 
