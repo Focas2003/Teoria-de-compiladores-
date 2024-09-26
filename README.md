@@ -1,11 +1,11 @@
 
-![Logotipo, nombre de la empresa](/imagenes/logo.png)
+![](/imagenes/logo.png)
 
 **UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
 
 **SECCIÓN: CC61**
 
-**GRUPO:**  
+
 
 **CURSO: Teoría de compiladores**
 
